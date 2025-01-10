@@ -1,6 +1,6 @@
 # GETTING STARTED - [DS](#so-you-may-ask-me-wtf-is-this-data-structures)
 
-## So you may ask me WTF is this data structures?
+### So you may ask me WTF is this data structures?
 
 A data structure is a way to store data.
 
@@ -18,7 +18,8 @@ Data structures give us the possibility to manage large amounts of data efficien
 
 Data structures are essential ingredients in creating fast and powerful algorithms. They help in managing and organizing data, reduce complexity, and increase efficiency
 
-## What are Algorithms?
+### What are Algorithms?
+
 An algorithm is a set of step-by-step instructions to solve a given problem or achieve a specific goal.
 
 Pommes Frites Recipe
