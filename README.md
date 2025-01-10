@@ -1,5 +1,9 @@
 # GETTING STARTED - [DS](#so-you-may-ask-me-wtf-is-this-data-structures)
 
+`Table of content 🧩`
+[structures 🗼](#so-you-may-ask-me-wtf-is-this-data-structures)
+[Algorithms 🎲](#what-are-algorithms)
+
 ### So you may ask me WTF is this data structures?
 
 A data structure is a way to store data.
