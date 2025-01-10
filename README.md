@@ -1,7 +1,6 @@
 # GETTING STARTED - [DS](#so-you-may-ask-me-wtf-is-this-data-structures)
 
 `Table of content 🧩`
-
 - [structures 🗼](#so-you-may-ask-me-wtf-is-this-data-structures)
 - [Algorithms 🎲](#what-are-algorithms)
 
@@ -23,7 +22,7 @@ Data structures give us the possibility to manage large amounts of data efficien
 
 Data structures are essential ingredients in creating fast and powerful algorithms. They help in managing and organizing data, reduce complexity, and increase efficiency
 
-### What are Algorithms?
+### What are Algorithms?(style: text-color: #444444)
 
 An algorithm is a set of step-by-step instructions to solve a given problem or achieve a specific goal.
 
