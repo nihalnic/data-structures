@@ -1,4 +1,4 @@
-![Data-structure-img](/banner.png)
+![Data-structure-img](/banner.jpg)
 
 # GETTING STARTED - [DS](#so-you-may-ask-me-wtf-is-this-data-structures)
 
