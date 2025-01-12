@@ -1,6 +1,6 @@
-# GETTING STARTED - [DS](#so-you-may-ask-me-wtf-is-this-data-structures)
-
 ![Data-structure-img](/ds-thambline.png)
+
+# GETTING STARTED - [DS](#so-you-may-ask-me-wtf-is-this-data-structures)
 
 `Table of content 🧩`
 
