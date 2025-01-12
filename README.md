@@ -1,6 +1,9 @@
 # GETTING STARTED - [DS](#so-you-may-ask-me-wtf-is-this-data-structures)
 
+![Data-structure-img](/ds-thambline.png)
+
 `Table of content 🧩`
+
 - [Data structures 🗼](#so-you-may-ask-me-wtf-is-this-data-structures)
 - [Algorithms 🎲](#what-are-algorithms)
 
