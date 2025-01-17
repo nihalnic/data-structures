@@ -1,4 +1,6 @@
-![Data-structure-img](/banner.jpg)
+<!-- ![Data-structure-img](/banner.jpg) -->
+
+<img src="/banner.jpg" alt="Alt Text" width="300" height="200">
 
 # GETTING STARTED - [DS](#so-you-may-ask-me-wtf-is-this-data-structures)
 
